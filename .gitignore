@@ -3,3 +3,6 @@ assets/references/
 __pycache__/
 *.log
 deployment-status.json
+
+.qa/
+qa/artifacts/
