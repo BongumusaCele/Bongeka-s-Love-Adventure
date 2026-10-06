@@ -14,3 +14,5 @@
 
 /* Never let a stale or queued notification cover an active course. */
 body:has(#app.playing) #toast{display:none!important}
+
+.playing,.playing *{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}.playing button{touch-action:none}
