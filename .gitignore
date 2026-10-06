@@ -1,0 +1,5 @@
+# The game uses illustrated avatars; keep the original reference photos local.
+assets/references/
+__pycache__/
+*.log
+deployment-status.json
